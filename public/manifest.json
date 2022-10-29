@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Kitchen Tracker",
+  "name": "Kitchen Tracker & Recipes",
   "icons": [
     {
       "src": "favicon.ico",
